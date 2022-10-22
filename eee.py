@@ -1,4 +1,5 @@
 """Obliczanie wartości przyszłej kwoty w okresie inwestycji"""
+
 pv = 1000 #Kwota wejściowa
 r = 0.03 #roczna stopa procentowa
 n = 5 # okres inwestycji w latach
